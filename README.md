@@ -4,6 +4,8 @@ We make ready-to-eat millet-based seed cycling crackers for busy, health-conscio
 
 **The Iron Minds** · Cornell Food Hackathon: Gabriele Fognini, Tina Yu, Sasha Letizia, Orazio Petito, Habiba Khan
 
+<img src="./team-photo.png" alt="The Iron Minds team at the Cornell Food Hackathon">
+
 ## What's in this repo
 
 * **Pitch deck**: [pitch-deck.pdf](pitch-deck.pdf)

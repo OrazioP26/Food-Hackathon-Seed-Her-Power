@@ -1,6 +1,6 @@
 # Seed Her Power
 
-TODO: one-line pitch.
+TODO: > We make ready-to-eat millet-based seed cycling crackers for busy, health-conscious women, eliminating the hassle of daily seed preparation.
 
 **The Iron Minds** · Cornell Food Hackathon: Gabriele Fognini, Tina Yu, Sasha Letizia, Orazio Petito, Habiba Khan
 
